@@ -1,0 +1,26 @@
+  .article_container h2 {
+    color: #FFF;
+    font-size: 7.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .article_container p {
+    color: #FFF;
+    font-size: 2em;
+  }
+
+  .article_container {
+    padding: 10px 5%;
+  }
+
+  .leftTextWrap {
+    float: left;
+    margin: 10px;
+  }
+
+  .rightTextWrap {
+    float: right;
+    margin: 10px;
+  }
